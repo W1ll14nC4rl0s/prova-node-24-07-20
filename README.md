@@ -7,3 +7,12 @@
 ### Rodando o projeto
 
 `docker-compose up`
+
+### rodando os testes
+
+    No docker-compose esta comentando o comando que realiza chamada aos scripts de testes
+    os testes abrangem : 
+    -Conexão com o Banco de Dados Postgres
+    -inclução de novo usuario
+    -alteração e delete
+    - testes de rotas 
